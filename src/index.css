@@ -1,0 +1,37 @@
+body {
+  height: 100%;
+  margin: 0px !important;
+  font-family: "Josefin Sans";
+}
+html {
+  height: 100%;
+}
+main,
+.h100 {
+  height: 100%;
+  margin: 40px;
+}
+h1 {
+  text-align: center;
+  color: #37c6ff;
+}
+h2 {
+  color: #37c6ff;
+  margin-top: 20px;
+}
+.privacy-policy-points {
+  list-style-type: disc; /* Bullet point style */
+  padding-left: 40px !important;
+  margin-top: 20px;
+}
+.privacy-policy-contents {
+  padding-left: 20px !important;
+}
+.privacy-policy-list {
+  list-style-type: none; /* Bullet point style */
+  padding-left: 40px !important;
+  margin-top: 20px;
+}
+li {
+  margin-top: 10px;
+}
